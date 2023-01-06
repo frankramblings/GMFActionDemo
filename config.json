@@ -1,5 +1,5 @@
 {
     "FakeRelayUrl": "https://fakerelay.gervas.io",
-    "Tags": [ "dotnet", "csharp" ],
-    "Instances": [ "hachyderm.io", "mastodon.social" ]
+    "Tags": [ "mastoadmin", "nhpolitics", "nhpoli", "apple", "uspoli", "uspolitics", "beatles", "thebeatles", "starwars", "adhd", "audhd", "autistic", "autism", "actuallyautistic", "newhampshire", "boston", "uspol", "bospoli", "bostodon", "masstodon" ],
+    "Instances": [ "mstdn.social", "mstdn.party", "mas.to", "hachyderm.io", "mastodon.social" ]
 }
