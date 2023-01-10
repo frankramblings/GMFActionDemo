@@ -1,5 +1,6 @@
 {
     "FakeRelayUrl": "https://fakerelay.gervas.io",
+    "FakeRelayApiKey": "A7tPJR5gXcEo8VCfDORfWAAcB5oLsOPIFf9DnUWuIlJPbQgq2x+PBC8XXZTLweMX7wq91xuVQaAzZspTMjaJIQ==",
     "Tags": [ "boston","MApoli", "mastoadmin", "nhpolitics", "nhpoli", "apple", "uspoli", "uspolitics", "beatles", "thebeatles", "starwars", "adhd", "audhd", "autistic", "autism", "actuallyautistic", "newhampshire", "boston", "uspol", "bospoli", "bostodon", "masstodon" ],
     "Instances": [ "mstdn.social", "mstdn.party", "mas.to", "hachyderm.io", "mastodon.social" ]
 }
